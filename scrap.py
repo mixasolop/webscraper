@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
 
 URL = "https://www.investing.com/currencies/streaming-forex-rates-majors"
 
